@@ -1,0 +1,10 @@
+D:\Visual Studio Projeler\Klavye\Klavye\bin\Debug\Klavye.exe.config
+D:\Visual Studio Projeler\Klavye\Klavye\bin\Debug\Klavye.exe
+D:\Visual Studio Projeler\Klavye\Klavye\bin\Debug\Klavye.pdb
+D:\Visual Studio Projeler\Klavye\Klavye\obj\Debug\Klavye.csprojAssemblyReference.cache
+D:\Visual Studio Projeler\Klavye\Klavye\obj\Debug\Klavye.Form1.resources
+D:\Visual Studio Projeler\Klavye\Klavye\obj\Debug\Klavye.Properties.Resources.resources
+D:\Visual Studio Projeler\Klavye\Klavye\obj\Debug\Klavye.csproj.GenerateResource.cache
+D:\Visual Studio Projeler\Klavye\Klavye\obj\Debug\Klavye.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projeler\Klavye\Klavye\obj\Debug\Klavye.exe
+D:\Visual Studio Projeler\Klavye\Klavye\obj\Debug\Klavye.pdb
